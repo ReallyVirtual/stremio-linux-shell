@@ -1,0 +1,5 @@
+src/
+pkg/arch/src/
+pkg/arch/pkg/
+pkg/arch/stremio-linux-shell/
+pkg/arch/*.pkg.tar.zst
